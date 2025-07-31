@@ -1,8 +1,5 @@
 
 
-
-
-
 body{
 color:burlywood ;
 background-color: black ;
@@ -26,9 +23,6 @@ justify-content: center;
 }
 
 
-
-
-
 h1{
 color: #c6a974 ;
 font-size: 40px;
@@ -44,4 +38,9 @@ p{
     padding: 20px;
     background-color: #0c0c0c;
     color: #c6a974;
+}
+
+img{
+
+  height: 200px;
 }
